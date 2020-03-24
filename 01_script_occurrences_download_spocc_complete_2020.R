@@ -1,7 +1,7 @@
 ### script download occurrences - spocc ###
 
 # Mauricio Humberto Vancine - mauricio.vancine@gmail.com 25/07/2017
-# Updated by Renata Muylaert in 24/03/20 (R 3.4.4)
+# Updated by Renata Muylaert in 24/03/2020 (R 3.4.4)
 
 ###---------------------------------------------------------------------------###
 
